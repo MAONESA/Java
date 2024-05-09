@@ -14,6 +14,6 @@ public class Metodos {
 	public static void main(String[] args) {
 		Metodos i;
 		i = new Metodos();
-		i.miau(false);
+		i.miau(true);
 	}
 }
